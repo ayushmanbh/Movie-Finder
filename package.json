@@ -1,0 +1,12 @@
+{
+  "name": "new_mern_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"cd server && npm run dev\" \"cd client && npm start\" "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
